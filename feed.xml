@@ -8,7 +8,7 @@
     <description>Two hosts read the self-improvement canon so you do not have to take it on faith. Each episode pulls together a stack of essays on one question about attention, habit, character or ambition, finds the through-line, and argues about where the advice breaks down. Ideas only: no gurus, no morning routines, no listener mail.</description>
     <language>en-us</language>
     <copyright>Second Nature</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 22:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:50:44 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/eryw9kye47ewvf0s7o/cover.jpg</url>
@@ -66,6 +66,21 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://adil1248.github.io/eryw9kye47ewvf0s7o/episodes/pushing-vs-letting-fail.mp3" length="9650642" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>10. When Systems Consume the Work</title>
+      <link>https://adil1248.github.io/eryw9kye47ewvf0s7o/</link>
+      <guid isPermaLink="false">second-nature-optimization-trap-3-8e46d956</guid>
+      <pubDate>Mon, 26 Oct 2026 02:45:43 +0000</pubDate>
+      <description>&lt;p&gt;The essays behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.businessinsider.com/i-tried-top-productivity-tip-time-managment-harvard-2022-6"&gt;I tried Harvard's top productivity routine. Here's how it impacted my work — and which habits I'm keeping.&lt;/a&gt; — businessinsider.com&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theatlantic.com/family/archive/2022/10/reward-system-kids-parenting/671721/"&gt;What I Learned When I Gamified My Kids’ Lives&lt;/a&gt; — theatlantic.com&lt;/li&gt;&lt;li&gt;&lt;a href="https://bigthink.com/smart-skills/para-method-organize-digital-lives-4-simple-categories/"&gt;The “PARA method” says we can organize our digital lives into 4 simple categories&lt;/a&gt; — bigthink.com&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theatlantic.com/family/2026/05/algorithm-decision-making-randomization/687098/"&gt;He’s So Random&lt;/a&gt; — theatlantic.com&lt;/li&gt;&lt;li&gt;&lt;a href="https://calnewport.com/on-ai-coding-and-its-discontents/"&gt;On AI Coding and Its Discontents - Cal Newport&lt;/a&gt; — calnewport.com&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>The essays behind this episode.</p><ul><li><a href="https://www.businessinsider.com/i-tried-top-productivity-tip-time-managment-harvard-2022-6">I tried Harvard's top productivity routine. Here's how it impacted my work — and which habits I'm keeping.</a> — businessinsider.com</li><li><a href="https://www.theatlantic.com/family/archive/2022/10/reward-system-kids-parenting/671721/">What I Learned When I Gamified My Kids’ Lives</a> — theatlantic.com</li><li><a href="https://bigthink.com/smart-skills/para-method-organize-digital-lives-4-simple-categories/">The “PARA method” says we can organize our digital lives into 4 simple categories</a> — bigthink.com</li><li><a href="https://www.theatlantic.com/family/2026/05/algorithm-decision-making-randomization/687098/">He’s So Random</a> — theatlantic.com</li><li><a href="https://calnewport.com/on-ai-coding-and-its-discontents/">On AI Coding and Its Discontents - Cal Newport</a> — calnewport.com</li></ul>]]></content:encoded>
+      <itunes:title>10. When Systems Consume the Work</itunes:title>
+      <itunes:summary>&lt;p&gt;The essays behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.businessinsider.com/i-tried-top-productivity-tip-time-managment-harvard-2022-6"&gt;I tried Harvard's top productivity routine. Here's how it impacted my work — and which habits I'm keeping.&lt;/a&gt; — businessinsider.com&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theatlantic.com/family/archive/2022/10/reward-system-kids-parenting/671721/"&gt;What I Learned When I Gamified My Kids’ Lives&lt;/a&gt; — theatlantic.com&lt;/li&gt;&lt;li&gt;&lt;a href="https://bigthink.com/smart-skills/para-method-organize-digital-lives-4-simple-categories/"&gt;The “PARA method” says we can organize our digital lives into 4 simple categories&lt;/a&gt; — bigthink.com&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theatlantic.com/family/2026/05/algorithm-decision-making-randomization/687098/"&gt;He’s So Random&lt;/a&gt; — theatlantic.com&lt;/li&gt;&lt;li&gt;&lt;a href="https://calnewport.com/on-ai-coding-and-its-discontents/"&gt;On AI Coding and Its Discontents - Cal Newport&lt;/a&gt; — calnewport.com&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Second Nature</itunes:author>
+      <itunes:duration>928</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/eryw9kye47ewvf0s7o/episodes/optimization-trap-3.mp3" length="11139942" type="audio/mpeg"/>
     </item>
     <item>
       <title>9. The Science of When to Work</title>
